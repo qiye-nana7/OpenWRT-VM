@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/fraudster7/Desktop/大二Sophomore/计算机网络ComputerNetwork/第6章示例代码/例1：TCP套接字函数使用基础",
+      "program": "/Users/fraudster7/Desktop/大二Sophomore/计算机网络ComputerNetwork/第6章示例代码/例1：TCP套接字函数使用基础/build/Debug/outDebug"
+    }
+  ]
+}

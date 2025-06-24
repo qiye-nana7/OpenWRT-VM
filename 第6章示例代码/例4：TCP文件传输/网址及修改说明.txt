@@ -1,0 +1,7 @@
+Linux网络编程：socket文件传输范例
+https://blog.csdn.net/muyuyuzhong/article/details/83539073
+
+修改：
+server在命令行指定监听端口；
+client在命令行指定远程服务器IP和端口；
+server显示连入的client IP和端口，发送时显示发送到 XXX ip地址 成功；

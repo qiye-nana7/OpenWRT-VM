@@ -1,0 +1,4 @@
+.DS_Store
+/build
+/img&SDK
+/openwrt-sdk-24.10.0-armsr-armv8_gcc-13.3.0_musl.Linux-x86_64
