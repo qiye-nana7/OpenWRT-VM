@@ -14,6 +14,9 @@ RUN apt update && \
         python3 \
         python3-pip \
         file \
+        rsync \
+        gawk \
+        libncurses-dev \
         pkg-config
 
 # 设置默认工作目录（和挂载目录保持一致）
