@@ -1,0 +1,11 @@
+# 使用本地下载的 sulinggg/openwrt 作为基础镜像
+FROM sulinggg/openwrt:x86_64
+
+# 设置工作目录
+WORKDIR /root
+
+# 安装必要的依赖（如果没有安装的话）
+RUN mkdir -p /var/lock
+
+# 设置容器启动命令
+CMD ["/bin/ash"]
